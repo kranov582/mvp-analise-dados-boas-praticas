@@ -1,0 +1,1 @@
+analise_de_dados.csv filter=lfs diff=lfs merge=lfs -text
