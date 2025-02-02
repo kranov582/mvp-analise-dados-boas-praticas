@@ -5,22 +5,20 @@ Este projeto tem como objetivo realizar uma análise exploratória e aplicar boa
 
 Objetivo
 
-Explorar e filtrar dados relevantes para a análise.
+-Explorar e filtrar dados relevantes para a análise.
 
-Identificar padrões nas ordens de produção.
+-Identificar padrões nas ordens de produção.
 
-Calcular rendimento metálico mensal.
+-Calcular rendimento metálico mensal.
 
-Avaliar os produtos mais e menos produzidos.
+-Avaliar os produtos mais e menos produzidos.
 
-Medir a quantidade de movimentações feitas por código.
+-Medir a quantidade de movimentações feitas por código.
 
-Possibilitar futuras previsões de produção utilizando aprendizado de máquina.
+-Possibilitar futuras previsões de produção utilizando aprendizado de máquina.
 
 Tecnologias Utilizadas
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
-Jupyter Notebook para execução dos códigos e visualização
-
-SQL para extração e manipulação dos dados
+-Google Colab para execução dos códigos e visualização
